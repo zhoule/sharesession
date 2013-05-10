@@ -17,3 +17,5 @@ Git usage.
 
 
 ggggg
+hhhhhhhggggg
+Add new config in read me.
